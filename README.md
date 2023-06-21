@@ -1,4 +1,3 @@
-# Atividade
+## Objetivo
 
-Código usado como exemplo para a atividade.
-
+Fazer um aplicativo web para exibir a previsão do tempo fornecida pela API do CPTEC-INPE.
